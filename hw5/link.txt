@@ -1,0 +1,5 @@
+https://github.com/tdou25/PAIML_Homeworks/tree/main/hw5
+
+NOTE: 
+tasks 1 and 2 are in the same notebook: PAIML_HW5_Task_1_2
+task 3 is in PAIML_HW5_Task_3
